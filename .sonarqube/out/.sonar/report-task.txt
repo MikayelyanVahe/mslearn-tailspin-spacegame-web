@@ -1,0 +1,7 @@
+organization=neworganization1980
+projectKey=space-game-web-1980
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.2514
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-1980
+ceTaskId=AW5fMdTCveFan9I2B0JX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW5fMdTCveFan9I2B0JX
